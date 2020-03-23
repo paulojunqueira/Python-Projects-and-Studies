@@ -8,7 +8,8 @@ import seaborn as sns
 
 
 ```python
-# import synthetic dataset from csv file. From Udemy Course "Python for Data Science Machine Learning Bootcamp - by Jose"
+# import synthetic dataset(NOT REAL DATA) from csv file. From Udemy Course 
+# "Python for Data Science Machine Learning Bootcamp - by Jose"
 customers = pd.read_csv('Ecommerce Customers')
 ```
 
