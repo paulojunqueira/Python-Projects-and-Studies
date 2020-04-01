@@ -1,4 +1,6 @@
 ## Logistic Regression Exercise with Python
-This is a Exercise on Logistic Regression on the dataset Titinic (Kaggle.com).
+This are Exercises on Logistic Regression:
+1) On the dataset Titinic (Kaggle.com).
+2) Ad dataset
 Basic Cleaning of data null variables. 
 Used sklearn, pandas, numpy,  matplotlin, seaborn.
