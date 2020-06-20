@@ -5,7 +5,7 @@ It was implemented a Peak Finding algorithm in Pyhton in 4 versions
 - Find all Peaks above threshold
 
 Find all Peaks example:
-![](Figures/Find Peaks.png)  
+![](Figures/FindPeaks.png)  
 
 Find all Peaks above threshold example:
-![](Figures/Find Peaks above Threshold.png) 
+![](Figures/FindPeaksAboveThreshold.png) 
