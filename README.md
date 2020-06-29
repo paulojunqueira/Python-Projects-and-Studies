@@ -1,5 +1,6 @@
 # Python-Projects-and-Studies
 This is a repository of Python Studies: Problems, Projects and More.
+- Algorithms
 - Project Euler Problems 
 - Machine Learning/Data Science Notebooks
     - Exploratory Analysis
